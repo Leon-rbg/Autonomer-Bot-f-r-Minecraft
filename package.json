@@ -1,6 +1,5 @@
 {
   "name": "mc-5-bots-autonom",
-  "type": "module",
   "version": "1.0.0",
   "scripts": {
     "start": "node bot.js"
